@@ -1,0 +1,21 @@
+.business {
+    display: flex;
+    flex-direction: row;
+}
+
+.business__side-panel {
+    margin-left: 3%;
+}
+
+.side-panel__text {
+    font-size: 17px;
+    color: #808191;
+    font-family: 'Manrope', sans-serif;
+    font-size: bold;
+}
+
+.side-panel__container {
+    display: flex;
+    flex-direction: row;
+    margin: 56px auto auto auto;
+}

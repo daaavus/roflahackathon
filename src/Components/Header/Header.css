@@ -1,0 +1,18 @@
+.header {
+    width: 100%;
+    height: 8%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    background-color: #FFFFFF;
+}
+
+.header__title {
+    margin-left: 3%;
+    display: flex;
+    flex-direction: row;
+}
+
+.header__profile-block {
+    margin: auto 3% auto auto;
+}

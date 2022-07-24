@@ -1,0 +1,40 @@
+.panel {
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto auto 3%;
+    width: 100%;
+    background-color: #F5F5F5;
+}
+
+.panel__q-metrics {
+    margin: 40px 3% 0 3%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.panel__title {
+    margin: 3% auto auto 3%;
+    font-size: 25px;
+    font-family: "Manrope", sans-serif;
+    color: #11142D;
+}
+
+.q-metrics__text-block {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-left: 20px;
+}
+
+.q-metrics__block {
+    display: flex;
+    flex-direction: row;
+    background-color: white;
+    width: 260px;
+    height: 100px;
+    border-radius: 15px;
+    margin: 0;
+    align-items: center;
+    justify-content: space-between;
+}

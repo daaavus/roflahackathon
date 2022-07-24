@@ -1,0 +1,12 @@
+.coming-soon {
+    margin: 10% auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.coming-soon__text {
+    font-size: 30px;
+    font-weight: bold;
+    margin-right: 10px;
+}
